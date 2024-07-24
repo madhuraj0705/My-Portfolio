@@ -1,5 +1,5 @@
 import logo from "../assets/Mblogo.png";
-import resume from "../assets/MadhuBResume.pdf";
+import resume from "../assets/Madhu_Resume.pdf";
 import Leet from "../assets/leetcode.png";
 
 import { FaLinkedin } from "react-icons/fa";
